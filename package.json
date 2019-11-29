@@ -1,0 +1,23 @@
+{
+  "name": "booklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChishoTakemura/book-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChishoTakemura/book-list/issues"
+  },
+  "homepage": "https://ChishoTakemura.github.io/booklist",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
